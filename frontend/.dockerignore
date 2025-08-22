@@ -1,0 +1,7 @@
+node_modules
+dist
+
+.gitignore
+.gitattributes
+dockerfiles
+README.md
